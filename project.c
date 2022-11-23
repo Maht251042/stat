@@ -21,7 +21,7 @@ int main()
     char name[30];
     printf("******************************************************************************\n");
     printf("**                   Hi everyone this is my first code in C                 **\n");
-    printf("**                        My name is Waenurma Waedeng                       **\n");
+    printf("**                                                                          **\n");
     printf("**                            Faculty Of Science                            **\n");
     printf("******************************************************************************\n");
     printf("What your Nickname ?\n");
